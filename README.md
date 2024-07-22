@@ -24,3 +24,8 @@ You can install these packages using pip:
 
 ```bash  
 pip install streamlit pandas
+
+##Output
+![image](https://github.com/user-attachments/assets/ff31bf5b-6c56-48a8-810a-5fcc94d764fc)
+
+
